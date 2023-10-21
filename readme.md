@@ -1,1 +1,1 @@
-"#Timeseries analysis of customer sales data" 
+#Timeseries analysis of customer sales data
